@@ -17,3 +17,5 @@ variable = undefined;
 console.log(typeof variable);
 
 
+// 静的片付け言語
+int num = 12;
